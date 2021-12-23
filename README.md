@@ -5,5 +5,8 @@
 
 ## Streamlit-Apps
 
- - Coming Soon!
+ - **clt_app**: A demonstration of the Central Limit Theorem using randomly generated data samples.
+
+ - **penguin_app**: An interactive scatterplot of an Arctic penguins dataset.
+
 
