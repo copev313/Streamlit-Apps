@@ -1,3 +1,6 @@
+altair==4.2.0
+# Only this version of Bokeh is currently supported with Streamlit:
+bokeh==2.4.1
 matplotlib
 pandas
 plotly==5.5.0
