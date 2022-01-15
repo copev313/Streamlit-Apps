@@ -1,11 +1,7 @@
 """
-trees.py
+trees_plotly.py
 
-In this project we work with a dataset from the department of public works in
-San Francisco. It's a collection of every tree planted and maintained in the
-city of San Francisco. For the purposes of this demonstration, we work with a
-random sample of 10,000 trees and their complete records.
-
+An extension of trees.py using the data vizualization library Plotly.
 """
 import streamlit as st
 import pandas as pd
