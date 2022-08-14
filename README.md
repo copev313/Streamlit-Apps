@@ -37,3 +37,8 @@
 
         # Example using Plotly library:
         streamlit run "streamlit_apps\trees_app\trees_plotly.py"
+
+
+ - **penguins_ml**: A demo of using Streamlit to leverage machine learning models to predict the species of penguins.
+
+        streamlit run "streamlit_apps\penguins_ml\penguins_streamlit.py"

@@ -5,4 +5,5 @@ matplotlib
 pandas
 plotly==5.5.0
 seaborn
+scikit-learn==1.1.2
 streamlit==1.4.0
