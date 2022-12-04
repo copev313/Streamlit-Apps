@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  streamlit:
+    container_name: streamlit-app
+    image: streamlit-app
+    ports:
+      - "80:80"
+    build:
+      context: ./streamlit_app
+      dockerfile: Dockerfile
